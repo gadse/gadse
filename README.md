@@ -6,7 +6,7 @@
   - C++ for utility (see https://gitlab.com/gadse/systemstats-cpp)
   - COBOL for fun (see https://github.com/gadse/openmainframe-cobol-course)
   
-🤔 I’m looking for help with cross-compiling Rust via GitLab-CI (https://gitlab.com/gadse/systemstats/-/pipelines/122136818)
+🤔 I’m looking for help with cross-compiling Rust via GitLab-CI/Docker (https://gitlab.com/gadse/systemstats/-/pipelines/122136818)
 
 😄 Pronouns: Just pick some that you like, as long as I recognize that you mean _me_.
 
