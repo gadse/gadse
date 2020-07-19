@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+## Find me on GitLab: https://gitlab.com/gadse
+
+🌱 I’m currently learning
+  - C++ for utility (see https://gitlab.com/gadse/systemstats-cpp)
+  - COBOL for fun (see https://github.com/gadse/openmainframe-cobol-course)
+  
+🤔 I’m looking for help with cross-compiling Rust via GitLab-CI (https://gitlab.com/gadse/systemstats/-/pipelines/122136818)
+
+😄 Pronouns: Just pick some that you like, as long as I recognize that you mean _me_.
 
 <!--
 **gadse/gadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
