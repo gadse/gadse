@@ -1,8 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 ## Find me on GitLab: https://gitlab.com/gadse
 
+## About me
+
 🌱 I’m currently learning
+  - Angular for loads of fun (see https://github.com/gadse/fckry)
   - C++ for utility (see https://gitlab.com/gadse/systemstats-cpp)
   - COBOL for fun (see https://github.com/gadse/openmainframe-cobol-course)
   
