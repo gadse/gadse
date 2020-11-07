@@ -7,7 +7,7 @@
 🌱 I’m currently learning
   - Angular for loads of fun (see https://github.com/gadse/fckry)
   - C++ for utility (see https://gitlab.com/gadse/systemstats-cpp)
-  - COBOL for fun (see https://github.com/gadse/openmainframe-cobol-course)
+  - C# for fun (see https://github.com/gadse/dungeon-explorer)
   
 🤔 I’m looking for help with cross-compiling Rust via GitLab-CI/Docker (https://gitlab.com/gadse/systemstats/-/pipelines/122136818)
 
