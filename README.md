@@ -5,7 +5,7 @@
 ## About me
 
 
-🕹️ Together with a few friends, I made a game! https://github.com/gadse/high-moon
+🕹️ Together with a few friends, I made a game! https://github.com/gadse/high-moon and https://gadse.itch.io/high-moon
 
 🌱 I’m currently learning
   - C# for fun (see https://github.com/gadse/dungeon-explorer)
