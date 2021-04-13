@@ -3,7 +3,7 @@
 ## About me
 
 
-🕹️ Together with a few friends, I made a game! https://github.com/gadse/high-moon and https://gadse.itch.io/high-moon
+🕹️ Together with a few friends, I made a game! It's the fulfillment of a 15 years old dream of mine, and I'm quite proud of the outcome. https://github.com/gadse/high-moon and https://gadse.itch.io/high-moon
 
 🌱 I’m currently learning
   - C# for fun and wörk (see https://github.com/gadse/dungeon-explorer)
