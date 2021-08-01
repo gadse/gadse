@@ -12,7 +12,7 @@
   - C++ for utility purposes (see https://gitlab.com/gadse/systemstats-cpp)
 
 🧶 I've played around with
-  - Angular for some tonguw-in-cheek fun (see https://github.com/gadse/fckry)
+  - Angular for some tongue-in-cheek fun (see https://github.com/gadse/fckry)
 
 💬 Ask me about Python, Heavy Metal, Software Engineering, or Role-Playing Games.
   
