@@ -5,22 +5,21 @@
 
 🕹️ Together with a few friends, I made a game! It's the fulfillment of a lifelong dream of mine, and I'm quite proud of the outcome. https://github.com/gadse/high-moon and https://gadse.itch.io/high-moon
 
-🧱 I'm currently building an RPG toolset together with a friend of mine (see https://github.com/Phoenox/dorc).
-
 🌱 I’m currently learning
-  - C# and F# for fun and wörk (see https://github.com/gadse/dungeon-explorer)
+  - Kotlin for fun (see https://github.com/gadse/spotify-extractor)
   - C++ for utility purposes (see https://gitlab.com/gadse/systemstats-cpp)
 
 🧶 I've played around with
   - Angular for some tongue-in-cheek fun (see https://github.com/gadse/fckry)
 
-💬 Ask me about Python, Heavy Metal, Software Engineering, or Role-Playing Games.
+💬 Ask me about Python, Java, Heavy Metal, Software Engineering, or Role-Playing Games.
   
 🤔 I’m looking for help with cross-compiling Rust via GitLab-CI/Docker (https://gitlab.com/gadse/systemstats/-/pipelines/122136818)
 
 😄 Pronouns: He/Him.
 
 📫 How to reach me:
+   - LinkedIn: https://www.linkedin.com/in/peter-bozsoky-software
    - GitLab: https://gitlab.com/gadse
    - Blog: https://lunchtime.dev
 
